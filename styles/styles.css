@@ -1,0 +1,12 @@
+.margin-left {
+    margin-left: 10px;
+}
+
+.bg-gray {
+    background-color: gray;
+}
+
+.push-left{
+    display: flex;
+    justify-content: flex-start;
+}
